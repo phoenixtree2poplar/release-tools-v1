@@ -5,3 +5,4 @@
 ### 3、OfficeTabl-office标签插件
 ### 4、CCleaner
 ### 6、HONEYVIEW 【官网：https://honeyview.en.softonic.com/
+### 6、听歌插件 【官网：https://github.com/listen1/listen1_chrome_extension
