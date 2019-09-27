@@ -2,7 +2,7 @@
 ### 1、winrar
 ### 2、HONEYVIEW 【官网：https://honeyview.en.softonic.com/
 ### 3、科学上网 【官网：https://github.com/haotian-wang/google-access-helper
-### 4、音乐下载器
+### 4、音乐下神器载器
 ### 5、download迅雷最简版
 ### 6、OfficeTabl-office标签插件
 ### 7、听歌插件 【官网：https://github.com/listen1/listen1_chrome_extension
