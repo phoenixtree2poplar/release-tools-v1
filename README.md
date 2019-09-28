@@ -10,3 +10,7 @@
 #### 9、FSCapture截图工具+激活码
 #### 10、CCleaner
 # release-tools-v2
+#### 1、BeyondCompare 【官网：http://www.scootersoftware.com/download.php
+#### 2、win10 Defender一键关闭 【官网：http://www.carrotchou.blog/27785.html
+#### 3、v2rayN-Core 【官网：https://github.com/v2ray/v2ray-core/releases
+#### 4、v2ray-macos 【官网：https://github.com/v2ray/v2ray-core/releases
