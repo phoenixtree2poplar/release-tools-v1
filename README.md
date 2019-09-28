@@ -9,3 +9,4 @@
 #### 8、everything文件搜索+ wox软件搜索【官网：https://everything.en.softonic.com/ 【官网：http://www.wox.one
 #### 9、FSCapture截图工具+激活码
 #### 10、CCleaner
+# release-tools-v2
