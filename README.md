@@ -9,7 +9,7 @@
 #### 8、everything文件搜索+ wox软件搜索【官网：https://everything.en.softonic.com/ 【官网：http://www.wox.one
 #### 9、FSCapture截图工具+激活码
 #### 10、CCleaner
-# release-tools-v2
+# release-tools-v2 【https://github.com/phoenixtree2poplar/release-tools-v2
 #### 1、v2rayNG 【官网：https://github.com/2dust/v2rayNG/releases
 #### 2、BeyondCompare 【官网：http://www.scootersoftware.com/download.php
 #### 3、jdk1.8中文文档 【官网：https://docs.oracle.com/javase/8/docs/
@@ -17,3 +17,7 @@
 #### 5、v2rayN-Core 【官网：https://github.com/v2ray/v2ray-core/releases
 #### 6、v2ray-macos 【官网：https://github.com/v2ray/v2ray-core/releases
 #### 7、TortoiseGit+中文补丁 【官网：https://tortoisegit.org/download/
+# release-pkg-v1 【https://github.com/phoenixtree2poplar/release-pkg-v1
+#### 1、nginx 【官网：http://nginx.org/en/download.html
+#### 2、redis 【官网：https://github.com/microsoftarchive/redis/releases
+#### 3、mysql 【官网：https://dev.mysql.com/downloads/mysql
